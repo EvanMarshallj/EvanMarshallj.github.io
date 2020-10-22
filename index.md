@@ -3,7 +3,6 @@
 #### 
 [LinkedIn](https://www.linkedin.com/in/evanmarshallj/) • (204) 228-5926 • EvanMarshallj@gmail.com
 
----
 ## Education
 
 **Bachelor of Science in Computer Science**2016 - Present <br>
