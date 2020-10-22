@@ -4,7 +4,7 @@
 
 ## Education
 
-**Bachelor of Science in Computer Science**2016 - Present <br>
+**Bachelor of Science in Computer Science** 2016 - Present <br>
 _Concentration in Computer Systems_ <br>
 _Minor in Psychology_ <br>
 University of Manitoba, Winnipeg, MB <br>
@@ -44,7 +44,7 @@ Expected Date of Graduation: May 2021
 >* Achieved high quality assurance scores based on customer service abilities. 
 >* Gained a deep knowledge of the Canadian automotive, power sport, heavy equipment and trailer industry. 
 
-**Grader, University of Manitoba** September 2020 - Present </br>
+**Grader, University of Manitoba** September 2020 - Present
 >**COMP 2160 & 3190**
 >* Communicate with professors to arrange grading specifications.
 >* Respond to student’s discussion posts regarding questions about their assignments and labs.
@@ -66,10 +66,10 @@ Expected Date of Graduation: May 2021
 * Strong verbal, written, group facilitation and presentation skills, with the ability to use technical communication at the right level for the intended audience.
 
 ### References
-> **Jim Duncan, Director** -  Department of Sustainable Development
+> **Jim Duncan, Director** -  Department of Sustainable Development <br>
 (204) 945-7465
 
-> **Tannis Geddes, Hiring Manager** - ENGAP, University of Manitoba
-(204) 474-9872 
+> **Tannis Geddes, Hiring Manager** - ENGAP, University of Manitoba <br>
+(204) 474-9872 <br>
 tannis.geddes@umanitoba.ca
 
