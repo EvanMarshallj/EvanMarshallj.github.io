@@ -1,6 +1,5 @@
-# <center> Evan Marshall </center>
+# Evan Marshall 
 
-#### 
 [LinkedIn](https://www.linkedin.com/in/evanmarshallj/) • (204) 228-5926 • EvanMarshallj@gmail.com
 
 ## Education
