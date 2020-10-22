@@ -2,7 +2,6 @@
 
 #### <center>  
 [LinkedIn](https://www.linkedin.com/in/evanmarshallj/)
-</center>
 <center>
 • (204) 228-5926 • evanmarshallj@gmail.com
 </center>
