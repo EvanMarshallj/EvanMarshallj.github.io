@@ -1,15 +1,18 @@
 # <center> Evan Marshall </center>
 
-#### <center>  [LinkedIn](https://www.linkedin.com/in/evanmarshallj/)
+#### <center>  
+[LinkedIn](https://www.linkedin.com/in/evanmarshallj/)
+</center>
 <center>
-evanmarshallj@gmail.com • (204) 228-5926
+• (204) 228-5926 • evanmarshallj@gmail.com
 </center>
 
 ---
 ## Education
 
-<span>**Bachelor of Science in Computer Science**</span><span> 2016 - Present </span> </br>
+**Bachelor of Science in Computer Science**2016 - Present <br>
 _Concentration in Computer Systems_ </br>
+
 _Minor in Psychology_ </br>
 University of Manitoba, Winnipeg, MB </br>
 Expected Date of Graduation: May 2021
