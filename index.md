@@ -1,6 +1,6 @@
 # <center> Evan Marshall </center>
 
-#### <center>  [My LinkedIn](https://www.linkedin.com/in/evanmarshallj/)  </br>
+#### <center>  [LinkedIn](https://www.linkedin.com/in/evanmarshallj/)
 <center>
 evanmarshallj@gmail.com • (204) 228-5926
 </center>
