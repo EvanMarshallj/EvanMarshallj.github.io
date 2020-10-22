@@ -1,9 +1,9 @@
 # <center> Evan Marshall </center>
 
-#### <center>  
+#### 
 [LinkedIn](https://www.linkedin.com/in/evanmarshallj/) • (204) 228-5926 • EvanMarshallj@gmail.com
-</center>
-***
+
+---
 ## Education
 
 **Bachelor of Science in Computer Science**2016 - Present <br>
@@ -11,7 +11,8 @@ _Concentration in Computer Systems_ <br>
 _Minor in Psychology_ <br>
 University of Manitoba, Winnipeg, MB <br>
 Expected Date of Graduation: May 2021 
-***
+
+---
 ## Technical Skills
 **Programming:**
 * *Practical experience:* Java, HTML, CSS, Object Oriented Programming
@@ -29,8 +30,8 @@ Expected Date of Graduation: May 2021
 **Operating Systems:**
 * *Practical experience:*  
 * *Familiar with:* Previous editions of Windows, Unix, Linux
----
 
+---
 ## Work Experience
 **Training & Quality Improvement Analyst, Rapid RTC** October 2019 - Present
 >* Deliver quality assurance by applying industry best practices and developing new tools to ensure quality goals are met.
@@ -59,6 +60,7 @@ Expected Date of Graduation: May 2021
 **Administrative Support, Department of Sustainable Development, Winnipeg** Summer 2017
 >* General office filing duties
 >* Received and transferred calls to appropriate staff in the office.
+
 ---
 ### Interpersonal Skills
 
