@@ -72,3 +72,5 @@ Expected Date of Graduation: May 2021
 (204) 474-9872 <br>
 tannis.geddes@umanitoba.ca
 
+> Others available upon request.
+
