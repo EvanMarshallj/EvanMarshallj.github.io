@@ -5,7 +5,6 @@
 ## Education
 
 **Bachelor of Science in Computer Science** 2016 - Present <br>
-_Concentration in Computer Systems_ <br>
 _Minor in Psychology_ <br>
 University of Manitoba, Winnipeg, MB <br>
 Expected Date of Graduation: May 2021 
