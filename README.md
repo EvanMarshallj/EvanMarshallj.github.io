@@ -38,15 +38,19 @@ This guide is meant for third & fourth year computer science students who are be
 
 6. Publish your modified repository:
 	> cd username.github.io // Enter the repository directory
+
 	> git add -all // Make sure the new file is added to the "stage".
+
 	> git commit -m "You commit message here." // Log the changes
+
 	> git push -u origin main // Push the new commit to the online repository.
+
 	* Once this has been done, your local copy of the repository is now the copy stored on your Github.
 	* *You can check to make sure you did this correctly by visiting **username.github.io** in a browser.*
 
 ##### At this point you have a simple markdown resume being hosted on a distributed software sharing service. As described by Etter, the next thing to do is to apply formatting using a static site generator. This can make your resume really "pop" and will impress anyone who comes across it.
-	* We will be using Jekyll as our static site generator because it works seamlessly with Github pages.
-	* Jekyll can be customized much further than shown in this guide to create more intricate static websites if desired.
+* We will be using Jekyll as our static site generator because it works seamlessly with Github pages.
+* Jekyll can be customized much further than shown in this guide to create more intricate static websites if desired.
 
 7. Visit Github.com, navigate to your repository **username/username.github.io**.
 
@@ -69,6 +73,7 @@ Markdown is versatile and will look great everywhere. Have you ever tried to cop
 
 ##### *Why is my resume not showing up?*
 There are many reasons that could cause your website to not show up, all stemming from not following the above instructions precisely. During my first attempt, I had forgotten to name the markdown resume in my repository "**index.md"**. Another common issue could be that your repository is named incorrectly (it must exaxctly match your github account name).
+
 ---
 ### Acknowledgements
 I would like to thank the following group members for participating in discussions about the assignment:
