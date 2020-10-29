@@ -1,4 +1,4 @@
-#Hosting a Resume Online
+# Hosting a Resume Online
 
 ## Purpose 
 Have you ever wanted to take your resume to the next level? Andrew Etter describes a simple process to put your resume online in his book *Modern Technical Writing*. This readme will provide a detailed explanation on how to do just that, while making reference to related concepts in Etter's book.
