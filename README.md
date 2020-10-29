@@ -41,7 +41,7 @@ This guide is meant for third & fourth year computer science students who are be
 
 	> git add -all // Make sure the new file is added to the "stage".
 
-	> git commit -m "You commit message here." // Log the changes
+	> git commit -m "Your commit message here." // Log the changes
 
 	> git push -u origin main // Push the new commit to the online repository.
 
