@@ -1,10 +1,13 @@
 # Hosting a Resume Online
 
-![Final Product](https://media.giphy.com/media/XIrTo38GTZjMNAKCe5/giphy.gif)
-
 ## Purpose 
 Have you ever wanted to take your resume to the next level? Andrew Etter describes a simple process to put your resume online in his book *Modern Technical Writing*. This readme will provide a detailed explanation on how to do just that, while making reference to related concepts in Etter's book.
 
+## Audience
+This guide is meant for third & fourth year computer science students who are beginning their career search and would like to increase their resume visibility to employers.
+
+![Final Product](https://media.giphy.com/media/XIrTo38GTZjMNAKCe5/giphy.gif)
+---
 ## Prerequisites
 **Github Account:** Before anything else, you will need to start a Github account, which can be done [here](https://github.com/).
 
@@ -33,18 +36,40 @@ Have you ever wanted to take your resume to the next level? Andrew Etter describ
 5. Place your "**index.md**" file into your newly made "**Usename.github.io**" folder.
 	* Now your copy of the repository contains your resume file.
 
-github pages IS made using jekyll
+6. Publish your modified repository:
+	> cd username.github.io // Enter the repository directory
+	> git add -all // Make sure the new file is added to the "stage".
+	> git commit -m "You commit message here." // Log the changes
+	> git push -u origin main // Push the new commit to the online repository.
+	* Once this has been done, your local copy of the repository is now the copy stored on your Github.
+	* *You can check to make sure you did this correctly by visiting **username.github.io** in a browser.*
 
-talk about how using a static site generator (Jekyll) is an amazing tool.
+##### At this point you have a simple markdown resume being hosted on a distributed software sharing service. As described by Etter, the next thing to do is to apply formatting using a static site generator. This can make your resume really "pop" and will impress anyone who comes across it.
+	* We will be using Jekyll as our static site generator because it works seamlessly with Github pages.
+	* Jekyll can be customized much further than shown in this guide to create more intricate static websites if desired.
 
-related to andrew etters book because he recommends using a distributed collaboration software
+7. Visit Github.com, navigate to your repository **username/username.github.io**.
 
-step: talk about jekyll themes
+8. Click on **Settings**.
 
-## FAQ
+9. Scroll until you see the heading "Github Pages", click on **Choose a Theme**.
+	* Here, you will be shown the different Jekyll templates to automatically format your md file.
+
+10. Select your desired theme by clicking **Select Theme**.
+	* There will be a config yaml file added to your repository, this is what is formatting your md resume.
+
+### Done! 
+Give it a few moments to update the server and your theme should be applied.
+
+
+## FAQs
 
 ##### *Why is Markdown better than a word processor?* 
 Markdown is versatile and will look great everywhere. Have you ever tried to copy paste your Microsoft Word resume into a textbox, or other text editor? Word processors do not translate very well to anything but their own suite. This makes distributing your resume a nightmare when potential employers request different document types. However, Markdown keeps your formatting in-line, allowing it to be easily translated to other formats.
 
 ##### *Why is my resume not showing up?*
 There are many reasons that could cause your website to not show up, all stemming from not following the above instructions precisely. During my first attempt, I had forgotten to name the markdown resume in my repository "**index.md"**. Another common issue could be that your repository is named incorrectly (it must exaxctly match your github account name).
+---
+### Acknowledgements
+I would like to thank the following group members for participating in discussions about the assignment:
+	* 
