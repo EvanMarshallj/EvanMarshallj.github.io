@@ -76,8 +76,9 @@ There are many reasons that could cause your website to not show up, all stemmin
 ---
 ### Authors and Acknowledgements
 I would like to thank the following group members for participating in discussions to further my understanding of the assignment:
-	* Prabhanshu Shrivastava
-	* Tehillah Kangamba
-	* Seunghwan Youn
 
-Finally, a thank you to Andrew Etter for his fantastic book *(Modern Technical Writing)[https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS]*.
+* Prabhanshu Shrivastava
+* Tehillah Kangamba
+* Seunghwan Youn
+
+Finally, a thank you to Andrew Etter for his fantastic book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
