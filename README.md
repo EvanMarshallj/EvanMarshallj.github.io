@@ -75,6 +75,9 @@ Markdown is versatile and will look great everywhere. Have you ever tried to cop
 ##### *Why is my resume not showing up?*
 There are many reasons that could cause your website to not show up, all stemming from not following the above instructions precisely. During my first attempt, I had forgotten to name the markdown resume in my repository "**index.md"**. Another common issue could be that your repository is named incorrectly (it must exaxctly match your github account name).
 
+#### *How can I add an gif?*
+Gifs can be easily implemented into your documentation by creating and hosting the gif on a website like [Giphy](https://giphy.com/), which is what I used for this readme. Once you have the link to your newly created gif, you can add it to your markdown file as described in the markdown guide above.
+
 ---
 ### Authors and Acknowledgements
 I would like to thank the following group members for participating in discussions to further my understanding of the assignment:
