@@ -16,6 +16,8 @@ This guide is meant for third & fourth year computer science students who are be
 **Markdown:** Andrew Etter highly recommends using a lightwight markup language to format your resume. Markdown is by far the most popular language and will be used in this guide. In case you are unfamiliar with using Markdown, [here](https://www.markdowntutorial.com/) is a simple tutorial to get you familiar with the in-line formatting process.
 
 ## Instructions
+Note: The general idea Etter presents is to use a static site generating tool to display your markup documentation, and to use a distributed version control tool to host and share the site.
+
 1. Ensure you have completed all pre-requisites, that is, you:
 	* Have a Github account
 	* Downloaded git and have your command-line git open.
