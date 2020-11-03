@@ -6,7 +6,6 @@ Have you ever wanted to take your resume to the next level? Andrew Etter describ
 ## Audience
 This guide is meant for third & fourth year computer science students who are beginning their career search and would like to increase their resume visibility to employers.
 
-![Final Product](https://media.giphy.com/media/XIrTo38GTZjMNAKCe5/giphy.gif)
 ---
 ## Prerequisites
 **Github Account:** Before anything else, you will need to start a Github account, which can be done [here](https://github.com/).
@@ -65,7 +64,9 @@ Note: The general idea Etter presents is to use a static site generating tool to
 	* There will be a config yaml file added to your repository, this is what is formatting your md resume.
 
 ### Done! 
-Give it a few moments to update the server and your theme should be applied.
+Give it a few moments to update the server and your theme should be applied. See my complete, hosted resume below.
+
+![Final Product](https://media.giphy.com/media/XIrTo38GTZjMNAKCe5/giphy.gif)
 
 ## FAQs
 
