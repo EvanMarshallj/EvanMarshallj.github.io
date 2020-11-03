@@ -63,7 +63,7 @@ Note: The general idea Etter presents is to use a static site generating tool to
 	* There will be a config yaml file added to your repository, this is what is formatting your md resume.
 
 ### Done! 
-Give it a few moments to update the server and your theme should be applied. See my complete, hosted resume below.
+Give it a few moments to update the server and your theme should be applied. See my completed and hosted resume below.
 
 ![Final Product](https://media.giphy.com/media/XIrTo38GTZjMNAKCe5/giphy.gif)
 
