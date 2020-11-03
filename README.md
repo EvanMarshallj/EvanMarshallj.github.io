@@ -6,7 +6,6 @@ Have you ever wanted to take your resume to the next level? Andrew Etter describ
 ## Audience
 This guide is meant for third & fourth year computer science students who are beginning their career search and would like to increase their resume visibility to employers.
 
----
 ## Prerequisites
 **Github Account:** Before anything else, you will need to start a Github account, which can be done [here](https://github.com/).
 
