@@ -13,19 +13,18 @@ Expected Date of Graduation: May 2021
 ## Technical Skills
 **Programming:**
 * *Practical experience:* Java, HTML, CSS, Object Oriented Programming
-* *Course knowledge:* C/C++, JavaScript, Prolog, Assembly Languages such as MIPS, LC-3
+* *Course knowledge:* C/C++, JavaScript, Prolog, Computer Networks
 * *Familiar with:* Perl, Python, Ruby
 
 **Software:**
-* *Practical experience:* Microsoft Office, Android Studio
-* *Course knowledge:* Github
-* *Familiar with:* Adobe Photoshop, Visual Studio
+* *Practical experience:* Microsoft Office, Android Studio, Github, OAS
+* *Course knowledge:* Adobe Photoshop, Visual Studio
 
 **Databases:**
 * *Course knowledge:* SQL
 
 **Operating Systems:**
-* *Practical experience:*  
+* *Practical experience:*  Windows, Mac OS
 * *Familiar with:* Previous editions of Windows, Unix, Linux
 
 ---
