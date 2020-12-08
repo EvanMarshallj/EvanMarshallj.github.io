@@ -35,12 +35,6 @@ Expected Graduation Date: May 2021
 >* Take ownership of technical escalations, works with Client Services and Development Teams to resolve issues, support of product improvement. 
 >* Deliver high quality and engaging new hire training, industry training, and refresher training on a regular basis.
 
-**Online Agent, Rapid RTC** August 2018 - October 2020
->* Concierge online chats with customers of vehicle dealerships across Canada.
->* Provided customer service by determining the client’s needs, and connecting them with the appropriate department (sales, service, parts).
->* Achieved high quality assurance scores based on customer service abilities. 
->* Gained a deep knowledge of the Canadian automotive, power sport, heavy equipment and trailer industry. 
-
 **Grader, University of Manitoba** September 2020 - Present
 >**COMP 2160 & 3190**
 >* Communicate with professors to arrange grading specifications.
@@ -51,6 +45,11 @@ Expected Graduation Date: May 2021
 >* Work with students in learning and understanding the material in various first- and second-year computer science courses.
 >* Arranging times to meet with students, preparing material prior to meeting to ensure preparation, and completion of time sheets with signatures from students.
 
+**Online Agent, Rapid RTC** August 2018 - October 2020
+>* Concierge online chats with customers of vehicle dealerships across Canada.
+>* Provided customer service by determining the client’s needs, and connecting them with the appropriate department (sales, service, parts).
+>* Achieved high quality assurance scores based on customer service abilities. 
+>* Gained a deep knowledge of the Canadian automotive, power sport, heavy equipment and trailer industry. 
 
 **Administrative Support, Department of Sustainable Development, Winnipeg** Summer 2017
 >* General office filing duties
