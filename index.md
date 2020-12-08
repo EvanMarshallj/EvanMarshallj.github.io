@@ -58,8 +58,9 @@ Expected Graduation Date: May 2021
 ---
 ### Interpersonal Skills
 
-* Excellent planning and organizing skills, with the proven ability to prioritize, handle multiple assignments, work accurately within tight timelines, and interact collaboratively in a team environment.
-* Strong verbal, written, group facilitation and presentation skills, with the ability to use technical communication at the right level for the intended audience.
+* Excellent planning and organizational skills, with the proven ability to prioritize, manage multiple assignments, and work accurately within tight timelines. 
+* Efficient in interacting collaboratively in a team environment.
+* Strong technical communication skills in verbal, written, group facilitation and presentation format.
 
 ### References
 > **John Anderson, Professor** -  Department of Computer Science, University of Manitoba <br>
